@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 20px;
+}
+
+img.float-left {
+    float: left;
+    margin: 10px;
+    width: 200px;
+}
+
+img.float-right {
+    float: right;
+    margin: 10px;
+    width: 200px;
+}
+
+.hatter {
+    background-image: url("kepek/hatter.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
